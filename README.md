@@ -62,6 +62,8 @@ base_dir = Path.home() / "Desktop" / "data.set" / "indoorCVPR_09" / "Images"
 5. Sonuç karşılaştırma tabloları ve görselleştirmeler oluşturulur
 6. Test seti üzerinde Confusion Matrix ve Classification Report çıkarılır
 
+---------------------------------
+
 1. Dataset loading and filtering
 2. Baseline CNN model training and validation analysis
 3. Hyperparameter grid search
