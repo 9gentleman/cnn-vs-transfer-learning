@@ -14,9 +14,13 @@ This project focuses on comparing different deep learning approaches for indoor 
 Dizin Yapısı / Directory Structure:
 ---------------------------------
 ├── README.txt               → Bu açıklama dosyası / This description file
+
 ├── video/                   → Demo videosu / Demo video
+
 ├── src/                     → Tüm kaynak kodlar / All source codes
+
 ├── Outputs						  → Çıktıları içeren pdf / Output  pdf
+
 Gereksinimler / Requirements:
 ---------------------------------
 - Python 3.11
