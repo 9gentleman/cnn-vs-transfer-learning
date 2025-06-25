@@ -42,6 +42,7 @@ C:\Users<KullanıcıAdınız>\Desktop\data.set
 3. Kod dosyaları içerisindeki yol tanımlarının sizin kullanıcı adınıza ve konumunuza göre güncel olduğundan emin olun:
 
 base_dir = Path.home() / "Desktop" / "data.set" / "indoorCVPR_09" / "Images"
+
 ---------------------------------
 1. Download and extract the project files.
 2. Place the dataset folder on your Desktop with the following structure:
