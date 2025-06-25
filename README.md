@@ -74,13 +74,13 @@ base_dir = Path.home() / "Desktop" / "data.set" / "indoorCVPR_09" / "Images"
 Özet Bulgular / Summary of Results:
 ---------------------------------
 Val Accuracy Sonuçları (Doğrulama Seti):
-- Part 1 CNN: %99.53 doğruluk, %0.0747 kayıp
-- VGG16 Head-Only: %72.10 doğruluk, %0.9388 kayıp
-- VGG16 Fine-Tune: %82.74 doğruluk, %0.5687 kayıp
+- Part 1 CNN: %99.53 doğruluk/accuracy , %0.0747 kayıp
+- VGG16 Head-Only: %72.10 doğruluk/accuracy , %0.9388 kayıp
+- VGG16 Fine-Tune: %82.74 doğruluk/accuracy , %0.5687 kayıp
 
 Test Set Sonuçları:
-- Baseline CNN Model: %8 doğruluk, F1-Skor: 0.08
-- VGG16 Fine-Tune Model: %62 doğruluk, F1-Skor: 0.61
+- Baseline CNN Model: %8 doğruluk/accuracy , F1-Skor/F1-Score: 0.08
+- VGG16 Fine-Tune Model: %62 doğruluk/accuracy , F1-Skor/F1-Score: 0.61
 
 Yorum:
 Klasik CNN modeli overfitting etkisi göstererek validasyon setinde yüksek sonuçlar üretse de test setinde başarısız olmuştur. Transfer learning ile geliştirilen VGG16 Fine-Tune modeli ise gerçek dünya test setinde açık ara daha yüksek performans sağlamıştır. Bu nedenle final uygulamalar için VGG16 Fine-Tune modelinin tercih edilmesi önerilmektedir.
