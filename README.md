@@ -1,10 +1,9 @@
-====================================================================
-                        README - Indoor Scene Classification
-====================================================================
+README - cnn-vs-transfer-learning
+---------------------------------------------------------------
 
 Proje Adı / Project Title:
 ---------------------------------
-Indoor Scene Classification 
+cnn-vs-transfer-learning
 
 Açıklama / Description:
 ---------------------------------
